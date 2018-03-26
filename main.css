@@ -1,0 +1,10 @@
+body {
+    background: url("assets/img/bg.jpg");
+}
+
+.shadow {
+    box-shadow: 0 0 50px black;
+}
+.shadow-inset {
+    box-shadow: 0 0 15px rgba(0,0,0,.5) inset;
+}
